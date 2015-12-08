@@ -5,11 +5,11 @@ To Run this application, you are supposed to have Node.js installed and working 
 
 At Node Terminal, run the following commands:
 
-1. head to the directory where the files are kept.
-   $ cd /directory/twitter-streamer
+1. $ cd /directory/twitter-streamer
+   --> head to the directory where the files are kept.
   
 2. $ npm install
-   installs all the dependencies listed in the package.json file.
+   --> installs all the dependencies listed in the package.json file.
 
 3. $ node server.js
-   runs the application on the browser at localhost:8080.
+   --> runs the application on the browser at localhost:8080.
