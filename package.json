@@ -1,0 +1,11 @@
+{
+  "name": "tweets",
+  "description": "Simple Streaming Twitter",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "4.x.x",
+    "socket.io": "*",
+    "twit": "*"
+  }
+}
